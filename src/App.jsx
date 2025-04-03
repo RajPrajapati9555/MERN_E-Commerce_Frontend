@@ -11,7 +11,7 @@ import Cart from "./components/Cart";
 import Address from "./components/Address";
 import { Bounce, ToastContainer, toast } from "react-toastify";
 import Profile from "./components/user/Profile";
-import Checkout from "./components/checkout";
+import Checkout from "./components/Checkout";
 import OrderConfirmation from "./components/OrderConfirmation";
 const App = () => {
   // const {  } = useContext(AppContext);
