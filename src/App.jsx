@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import AppContext from "./context/AppContext";
 import ShowProduct from "./components/product/ShowProduct";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ProductDetail from "./components/product/ProductDEtail";
+import ProductDetail from "./components/product/ProductDetail";
 import Navbar from "./components/Navbar";
 import SearchProduct from "./components/product/Searchproduct";
 import Register from "./components/user/Register";
