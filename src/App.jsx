@@ -4,7 +4,7 @@ import ShowProduct from "./components/product/ShowProduct";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import ProductDetail from "./components/product/ProductDetail";
 import Navbar from "./components/Navbar";
-import SearchProduct from "./components/product/Searchproduct";
+import SearchProduct from "./components/product/SearchProduct";
 import Register from "./components/user/Register";
 import Login from "./components/user/Login";
 import Cart from "./components/Cart";
